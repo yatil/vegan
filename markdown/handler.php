@@ -18,6 +18,10 @@ $file = '../'.$_SERVER['SCRIPT_URL'];
 
 // print_r($_SERVER);
 
+if ($file=='../') {
+  $file="../index.md";
+}
+
 if($file && in_array(strtolower(substr($file,strrpos($file,'.')+1)), $legalExtensions)) {
   echo Markdown(file_get_contents($file));
 } else {
