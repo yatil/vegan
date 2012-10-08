@@ -1,3 +1,5 @@
+DirectoryIndex index.md
+
 Action markdown /markdown/handler.php
 AddHandler markdown .md
-DirectoryIndex index.md
+
