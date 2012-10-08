@@ -14,9 +14,9 @@ require('markdown.php');
 
 $legalExtensions = array('md', 'markdown');
 
-$file = '../'.$_SERVER['SCRIPT_URL'];
+$file = '..'.$_SERVER['SCRIPT_URL'];
 
-// print_r($_SERVER);
+// print_r($file);
 
 if ($file=='../') {
   $file="../index.md";
