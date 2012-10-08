@@ -14,11 +14,12 @@ require('markdown.php');
 
 $legalExtensions = array('md', 'markdown');
 
-$file = realpath($_SERVER['PATH_TRANSLATED']);
-if($file
-	&& in_array(strtolower(substr($file,strrpos($file,'.')+1)), $legalExtensions)
-	&& substr($file,0,strlen($_SERVER['DOCUMENT_ROOT'])) == $_SERVER['DOCUMENT_ROOT']) {
-	echo Markdown(file_get_contents($file));
+$file = '../'.$_SERVER['SCRIPT_URL'];
+
+// print_r($_SERVER);
+
+if($file && in_array(strtolower(substr($file,strrpos($file,'.')+1)), $legalExtensions)) {
+  echo Markdown(file_get_contents($file));
 } else {
 	echo "<p>Bad filename given</p>";
 }
