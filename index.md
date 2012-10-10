@@ -12,6 +12,12 @@ As milk and egg products have a huge tradition in traditional cooking, most cook
 
 While those are often really good<sup id="fnr1">[1]</sup>, salads are seldom keeping you from getting hungry for a longer time as they don’t have any proteins. A bit of well prepared (smoked) tofu can really improve this.
 
+## About substitution products.
+
+There’s a lot of meat substitution products, like [mock duck] and others. Don’t use it. Better provide fresh vegetables and tasty bacon creations.
+
+But it’s okay to use soy milk, almond milk or oat milk if you got something milk based on your menu<sup id="fnr2">[2]</sup>. There are even so-called “cuisines” on the market, which replace cream.
+
 ## How to integrate vegans when it’s time for lunch.
 
 Try to make your vegetarian options vegan by default. For example: if you serve a salad, don’t use cheese as a topping in your buffet. Serve it extra, so vegetarians and [omnivores] can add them to your liking. The same goes for the salad sauce: Chose one without cream.
