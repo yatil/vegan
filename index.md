@@ -26,6 +26,11 @@ Give vegans the opportunity to queue in line<sup id="fnr3">[3]</sup> like everyo
 
 ## What informations do vegans (and others) help to get around.
 
+That is important for even more people, especially for people with food allergies:
+
+* Get a list of every food option as served on that day and a detailed list of ingredients online, at least one week before the conference.
+* Mark the food option as vegan or vegetarian and note if they contain lactose, gluten or nuts. Do this online as well as directly on the buffet.
+
 [Fonteers Conference]: http://fronteers.nl/congres/2012
 
 <div>
