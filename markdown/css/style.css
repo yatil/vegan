@@ -29,5 +29,7 @@ h1 {
 h2 {
   font-size: 24px;
   display: inline-block;
-  background-color: rgba(0, 0, 0, 0.05);
-  padding: 0 5px; }
+  background-color: rgba(0, 0, 0, 0.06);
+  border-left: 5px solid black;
+  padding: 0 5px;
+  margin-left: -10px; }
