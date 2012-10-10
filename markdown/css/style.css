@@ -1,6 +1,6 @@
 html {
-  background-image: url("../img/shattered.png");
-  font-family: 'Titillium Web', sans-serif; }
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  background-image: url("../img/shattered.png"); }
   @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-min-moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
     html {
       background-image: url("../img/shattered_@2x.png"); } }
@@ -20,7 +20,8 @@ a {
   color: #333; }
 
 h1, h2, h3, h4, h5 {
-  font-weight: 200; }
+  font-weight: normal;
+  font-family: 'Titillium Web', sans-serif; }
 
 h1 {
   font-size: 30px; }
