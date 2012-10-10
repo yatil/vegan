@@ -14,7 +14,9 @@ While those are often really good<sup id="fnr1">[1]</sup>, salads are seldom kee
 
 ## How to integrate vegans when it’s time for lunch.
 
+Try to make your vegetarian options vegan by default. For example: if you serve a salad, don’t use cheese as a topping in your buffet. Serve it extra, so vegetarians and [omnivores] can add them to your liking. The same goes for the salad sauce: Chose one without cream.
 
+Give vegans the opportunity to queue in line<sup id="fnr2">[2]</sup> like everyone else. Serve rice or noodles seperate if possible to give them a chance to grab some of it. And remember that it can spoil the whole food for someone when meat sauce drips into the noodles that otherwise would have been veg(etari)an.
 
 ## What informations do vegans (and others) help to get around.
 
@@ -23,6 +25,7 @@ While those are often really good<sup id="fnr1">[1]</sup>, salads are seldom kee
 <div>
   <ol class="footnotes">
     <li id="fn1">It was awesome at Fronteers in Amsterdam, really.&nbsp;<a href="#fnr1"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#8617;</a></li>
+    <li id="fn2">Waiting on the side while everyone else is chatting and making connections can break the conference experience for some, at least if they are at the conference for the first time and don’t know anybody.&nbsp;<a href="#fnr2"  class="footnoteBackLink"  title="Jump back to footnote 2 in the text.">&#8617;</a></li>
   </ol>
 </div>
 
