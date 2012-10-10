@@ -22,7 +22,7 @@ But it’s okay to use soy milk, almond milk or oat milk if you got something mi
 
 Try to make your vegetarian options vegan by default. For example: if you serve a salad, don’t use cheese as a topping in your buffet. Serve it extra, so vegetarians and [omnivores] can add them to your liking. The same goes for the salad sauce: Chose one without cream.
 
-Give vegans the opportunity to queue in line<sup id="fnr2">[2]</sup> like everyone else. Serve rice or noodles seperate if possible to give them a chance to grab some of it. And remember that it can spoil the whole food for someone when meat sauce drips into the noodles that otherwise would have been veg(etari)an.
+Give vegans the opportunity to queue in line<sup id="fnr3">[3]</sup> like everyone else. Serve rice or noodles seperate if possible to give them a chance to grab some of it. And remember that it can spoil the whole food for someone when meat sauce drips into the noodles that otherwise would have been veg(etari)an.
 
 ## What informations do vegans (and others) help to get around.
 
