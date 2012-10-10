@@ -2,7 +2,7 @@
 
 ## Why am I writing this?
 
-I’ve recently been to the Fonteers Conference, which is still the most amazing conference on the planet. Or at least in Europe. It was the first time that I went there as somebody who eats vegan stuff only. I submitted a request to the organizers a few weeks before the trip so they could prepare. What I got was all right, but not on par with the other attendees lunch. So I’d like to give some advice to Conference organizer to keep the experience of their conference great for everyone.
+I’ve recently been to the [Fonteers Conference], which is still the most amazing conference on the planet. Or at least in Europe. It was the first time that I went there as somebody who eats vegan stuff only. I submitted a request to the organizers a few weeks before the trip so they could prepare. What I got was all right, but not on par with the other attendees lunch. So I’d like to give some advice to Conference organizer to keep the experience of their conference great for everyone.
 
 ## What vegans eat and why salad isn’t enough.
 
@@ -20,6 +20,7 @@ Give vegans the opportunity to queue in line<sup id="fnr2">[2]</sup> like everyo
 
 ## What informations do vegans (and others) help to get around.
 
+[Fonteers Conference]: http://fronteers.nl/congres/2012
 
 <div>
   <ol class="footnotes">
@@ -28,4 +29,5 @@ Give vegans the opportunity to queue in line<sup id="fnr2">[2]</sup> like everyo
   </ol>
 </div>
 
-[1]: #fn1-2012-10-10
+[1]: #fn1
+[2]: #fn2
