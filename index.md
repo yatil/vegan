@@ -10,7 +10,7 @@ Vegans eat a lot of stuff, but none of it is animal based. That means it is easy
 
 As milk and egg products have a huge tradition in traditional cooking, most cooks and caterings are a bit overwhelmed by vegans and make them a salad.
 
-While those are often really good<sup id="fnr1-2012-10-10">[1]</sup>, salads are seldom keeping you from getting hungry as they don’t have any proteins. A bit of well prepared (smoked) tofu can really improve this.
+While those are often really good<sup id="fnr1">[1]</sup>, salads are seldom keeping you from getting hungry for a longer time as they don’t have any proteins. A bit of well prepared (smoked) tofu can really improve this.
 
 ## How to integrate vegans when it’s time for lunch.
 
@@ -22,7 +22,7 @@ While those are often really good<sup id="fnr1-2012-10-10">[1]</sup>, salads are
 
 <div>
   <ol class="footnotes">
-    <li id="fn1-2012-10-10">It was awesome at Fronteers in Amsterdam, really.&nbsp;<a href="#fnr1-2012-10-10"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#8617;</a></li>
+    <li id="fn1">It was awesome at Fronteers in Amsterdam, really.&nbsp;<a href="#fnr1"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#8617;</a></li>
   </ol>
 </div>
 
