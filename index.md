@@ -35,11 +35,13 @@ That is important for even more people, especially for people with food allergie
 [omnivores]: http://en.wikipedia.org/wiki/Omnivore
 [mock duck]: http://en.wikipedia.org/wiki/Mock_duck
 
+<hr>
 
 <div>
   <ol class="footnotes">
     <li id="fn1">It was awesome at Fronteers in Amsterdam, really.&nbsp;<a href="#fnr1"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#8617;</a></li>
-    <li id="fn2">Waiting on the side while everyone else is chatting and making connections can break the conference experience for some, at least if they are at the conference for the first time and don’t know anybody.&nbsp;<a href="#fnr2"  class="footnoteBackLink"  title="Jump back to footnote 2 in the text.">&#8617;</a></li>
+    <li id="fn2">It helps too, if you add those choices if you serve milk after lunch, like it is common in the Netherlands or at your coffee bar.&nbsp;<a href="#fnr2"  class="footnoteBackLink"  title="Jump back to footnote 2 in the text.">&#8617;</a></li>
+    <li id="fn3">Waiting on the side while everyone else is chatting and making connections can break the conference experience for some, at least if they are at the conference for the first time and don’t know anybody.&nbsp;<a href="#fnr3"  class="footnoteBackLink"  title="Jump back to footnote 3 in the text.">&#8617;</a></li>
   </ol>
 </div>
 
