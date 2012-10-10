@@ -20,7 +20,6 @@ Give vegans the opportunity to queue in line<sup id="fnr2">[2]</sup> like everyo
 
 ## What informations do vegans (and others) help to get around.
 
-## How to keep it cheap.
 
 <div>
   <ol class="footnotes">
