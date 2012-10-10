@@ -32,6 +32,9 @@ That is important for even more people, especially for people with food allergie
 * Mark the food option as vegan or vegetarian and note if they contain lactose, gluten or nuts. Do this online as well as directly on the buffet.
 
 [Fonteers Conference]: http://fronteers.nl/congres/2012
+[omnivores]: http://en.wikipedia.org/wiki/Omnivore
+[mock duck]: http://en.wikipedia.org/wiki/Mock_duck
+
 
 <div>
   <ol class="footnotes">
