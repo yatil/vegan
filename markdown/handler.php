@@ -16,8 +16,6 @@ $legalExtensions = array('md', 'markdown');
 
 $file = '..'.$_SERVER['SCRIPT_URL'];
 
-// print_r($file);
-
 if ($file=='../') {
   $file="../index.md";
 }
