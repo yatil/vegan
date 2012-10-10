@@ -13,7 +13,7 @@ if ($file=='../') {
 
 if($file && in_array(strtolower(substr($file,strrpos($file,'.')+1)), $legalExtensions)) {
   $content = file($file);
-  $title = '<title>'.str_replace('# ', '', $content[0]).'</title>';
+  $title = str_replace('# ', '', $content[0]);
   $content = Markdown(file_get_contents($file));
 } else {
 	$content = "<h1>File not found</h1>";
