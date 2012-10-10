@@ -1,14 +1,5 @@
 <?php
 header('Content-type: text/html; charset=utf-8');
-?>
-<!DOCTYPE html>
-<html>
-<head>
-	<link rel="stylesheet" type="text/css" href="/markdown/style.css">
-	<meta name="content-type" http-equiv="content-type" value="text/html; utf-8">
-</head>
-<body>
-<?php
 
 require('markdown.php');
 
@@ -21,10 +12,22 @@ if ($file=='../') {
 }
 
 if($file && in_array(strtolower(substr($file,strrpos($file,'.')+1)), $legalExtensions)) {
-  echo Markdown(file_get_contents($file));
+  $content = file($file);
+  $title = '<title>'.str_replace('# ', '', $content[0]).'</title>';
+  $content = Markdown(file_get_contents($file));
 } else {
-	echo "<p>Bad filename given</p>";
+	$content = "<h1>File not found</h1>";
 }
 ?>
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title><?php print $title ?></title>
+  <link href='http://fonts.googleapis.com/css?family=Titillium+Web:400,400italic,700,700italic' rel='stylesheet'>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <?php print $content;?>
 </body>
 </html>
