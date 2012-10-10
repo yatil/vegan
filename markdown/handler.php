@@ -25,7 +25,7 @@ if($file && in_array(strtolower(substr($file,strrpos($file,'.')+1)), $legalExten
   <meta charset="utf-8">
   <title><?php print $title ?></title>
   <link href='http://fonts.googleapis.com/css?family=Titillium+Web:400,400italic,700,700italic' rel='stylesheet'>
-  <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="stylesheet" type="text/css" href="/markdown/css/style.css">
 </head>
 <body>
   <?php print $content;?>
