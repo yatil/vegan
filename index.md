@@ -14,7 +14,7 @@ While those are often really good<sup id="fnr1">[1]</sup>, salads are seldom kee
 
 ## About substitution products.
 
-There’s a lot of meat substitution products, like [mock duck] and others. Don’t use it. Better provide fresh vegetables and tasty bacon creations.
+There’s a lot of meat substitution products, like [mock duck] and others. Don’t use it. Better provide fresh vegetables and tasty (smoked) tofu creations.
 
 But it’s okay to use soy milk, almond milk or oat milk if you got something milk based on your menu<sup id="fnr2">[2]</sup>. There are even so-called “cuisines” on the market, which replace cream.
 
