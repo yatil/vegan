@@ -8,7 +8,7 @@ I’ve recently been to the [Fonteers Conference], which is still the most amazi
 
 Vegans eat a lot of stuff, but none of it is animal based. That means it is easy to list what we don’t eat: All kinds of meat (yes, that includes fish), cheese, milk and honey. As well as everything made out of those, like yoghurt, or milk sugar or similar things.
 
-As milk and egg products have a huge tradition in traditional cooking, most cooks and caterings are a bit overwhelmed by vegans and make them a salad.
+As milk and egg products have a huge tradition in western cooking, most cooks and caterings are a bit overwhelmed by vegans and make them a salad.
 
 While those are often really good<sup id="fnr1">[1]</sup>, salads are seldom keeping you from getting hungry for a longer time as they don’t have any proteins. A bit of well prepared (smoked) tofu can really improve this.
 
