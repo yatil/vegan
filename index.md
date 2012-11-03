@@ -2,7 +2,7 @@
 
 ## Why am I writing this?
 
-I’ve recently been to the [Fonteers Conference], which is still the most amazing conference on the planet. Or at least in Europe. It was the first time that I went there as somebody who eats vegan stuff only. I submitted a request to the organizers a few weeks before the trip so they could prepare. What I got was all right, but not on par with the other attendees lunch. So I’d like to give some advice to Conference organizer to keep the experience of their conference great for everyone.
+I’ve recently been to the [Fronteers Conference], which is still the most amazing conference on the planet. Or at least in Europe. It was the first time that I went there as somebody who eats vegan stuff only. I submitted a request to the organizers a few weeks before the trip so they could prepare. What I got was all right, but not on par with the other attendees lunch. So I’d like to give some advice to Conference organizer to keep the experience of their conference great for everyone.
 
 ## What vegans eat and why salad isn’t enough.
 
@@ -31,7 +31,7 @@ That is important for even more people, especially for people with food allergie
 * Get a list of every food option as served on that day and a detailed list of ingredients online, at least one week before the conference.
 * Mark the food option as vegan or vegetarian and note if they contain lactose, gluten or nuts. Do this online as well as directly on the buffet.
 
-[Fonteers Conference]: http://fronteers.nl/congres/2012
+[Fronteers Conference]: http://fronteers.nl/congres/2012
 [omnivores]: http://en.wikipedia.org/wiki/Omnivore
 [mock duck]: http://en.wikipedia.org/wiki/Mock_duck
 
